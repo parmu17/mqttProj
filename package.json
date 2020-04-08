@@ -1,0 +1,14 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "testing mosquitto mqtt broker",
+  "main": "app.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "author": "parmesh",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
+}
